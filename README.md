@@ -15,3 +15,9 @@ Tom Brady Youtube video: https://www.youtube.com/watch?v=sJsq5uP7IjI \
 
 https://user-images.githubusercontent.com/20390351/156479235-cda703f2-ccf9-4859-bd95-fee4da8d236c.mov
 
+
+## Object Detection
+Reference: https://github.com/ridouaneg/DeepFootballAnalysis
+
+
+
