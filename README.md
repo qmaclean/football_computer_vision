@@ -10,7 +10,6 @@ Open Pose: https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/
 ### Video Samples:
 Best to find videos where the QB is head on; doesn't work too well when the back is facing the camera
 Tom Brady Youtube video: https://www.youtube.com/watch?v=sJsq5uP7IjI \
-QB Slow Motion video: https://www.youtube.com/watch?v=QVmlV9u2xGk
 
 ### Output Sample
 
