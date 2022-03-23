@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/20390351/156479235-cda703f2-ccf9-4859-
 ### QB Pose Estimation w/ Angle & Throw Classification
 https://user-images.githubusercontent.com/20390351/159731534-dabe1859-33f5-4166-8932-9b2fdce44a80.mov
 
-
+Code: https://github.com/qmaclean/computer_vision_private
 
 ## Object Detection
 Reference: https://github.com/ridouaneg/DeepFootballAnalysis
