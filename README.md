@@ -15,10 +15,16 @@ Tom Brady Youtube video: https://www.youtube.com/watch?v=sJsq5uP7IjI
 
 https://user-images.githubusercontent.com/20390351/156479235-cda703f2-ccf9-4859-bd95-fee4da8d236c.mov
 
-### QB Pose Estimation w/ Angle & Throw Classification
+### QB Pose Estimation w/ Angle & Throw Classification (Malik Willis)
 https://user-images.githubusercontent.com/20390351/159731534-dabe1859-33f5-4166-8932-9b2fdce44a80.mov
 
 Code: https://github.com/qmaclean/computer_vision_private
+
+
+#### Kenny Pickett w/ Arm, Knee, Footwork Classification/Measurements
+https://user-images.githubusercontent.com/20390351/159965239-77cbbb81-c743-4c5a-85cb-0bbb01de97e9.mov
+
+
 
 ## Object Detection
 Reference: https://github.com/ridouaneg/DeepFootballAnalysis
