@@ -24,7 +24,10 @@ Code: https://github.com/qmaclean/computer_vision_private
 #### Kenny Pickett w/ Arm, Knee, Footwork Classification/Measurements
 https://user-images.githubusercontent.com/20390351/159965239-77cbbb81-c743-4c5a-85cb-0bbb01de97e9.mov
 
-
+Reference for QB Mechanics:
+https://volswire.usatoday.com/lists/how-josh-heupel-and-his-staff-teach-quarterback-footwork-fundamentals-and-stance/
+https://usafootball.com/coaches-notes/view/3775/quarterback-basics-passing-mechanics
+https://footballuniversity.org/technique-quarterback-throwing-motion-proper-mechanics/
 
 ## Object Detection
 Reference: https://github.com/ridouaneg/DeepFootballAnalysis
