@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/20390351/159965239-77cbbb81-c743-4c5a-
 
 #### Comparing QB mechanics
 <img width="450" alt="Screen Shot 2022-04-04 at 7 49 08 AM" src="https://user-images.githubusercontent.com/20390351/161604392-99a3b3fd-964e-4dc1-88f5-a14da7e03e5e.png">
+
 ![Shoulder_Movement_Density](https://user-images.githubusercontent.com/20390351/161604414-311807bb-b623-41b7-a479-9b1576dfa540.png)
+
 ![Wrist_Movement_Density](https://user-images.githubusercontent.com/20390351/161604442-47aa70d1-a9f3-4909-a342-b119da86fb47.png)
 
 
