@@ -40,6 +40,9 @@ https://footballuniversity.org/technique-quarterback-throwing-motion-proper-mech
 ## Object Detection
 Reference: https://github.com/ridouaneg/DeepFootballAnalysis
 
+#### DE Mechanics & Speed Calculation
+
+
 
 
 
