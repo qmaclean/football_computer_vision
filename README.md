@@ -43,6 +43,10 @@ Reference: https://github.com/ridouaneg/DeepFootballAnalysis
 #### DE Mechanics & Speed Calculation
 https://user-images.githubusercontent.com/20390351/163631208-fe4bd44c-7fca-43d6-829a-034be1fc17e6.mov
 
+https://user-images.githubusercontent.com/20390351/163890917-1e1955f7-6fd9-4683-a773-eadf08da11c3.mov
+
+
+
 
 
 
