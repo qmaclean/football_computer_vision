@@ -44,9 +44,6 @@ https://user-images.githubusercontent.com/20390351/171502601-8d8522b5-d636-4ccd-
 <img width="516" alt="Screen Shot 2022-05-27 at 10 21 00 AM" src="https://user-images.githubusercontent.com/20390351/171502673-083547ae-65f2-4951-a0e7-47332c50fdce.png">
 
 
-#### Arch Manning Throwing Mechanics
-
-
 
 
 Reference for QB Mechanics:
