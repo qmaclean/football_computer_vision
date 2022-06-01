@@ -37,6 +37,16 @@ https://user-images.githubusercontent.com/20390351/166935573-94cacf43-0354-49ba-
 
 <img width="667" alt="Screen Shot 2022-05-03 at 8 07 07 AM" src="https://user-images.githubusercontent.com/20390351/166695386-d8232102-a529-49de-93fa-d79657820439.png">
 
+#### Trey Lance Throwing Mechanics during OTAs
+
+https://user-images.githubusercontent.com/20390351/171502601-8d8522b5-d636-4ccd-b71c-8eb517247eeb.mov
+
+<img width="516" alt="Screen Shot 2022-05-27 at 10 21 00 AM" src="https://user-images.githubusercontent.com/20390351/171502673-083547ae-65f2-4951-a0e7-47332c50fdce.png">
+
+
+#### Arch Manning Throwing Mechanics
+
+
 
 
 Reference for QB Mechanics:
