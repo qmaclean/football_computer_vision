@@ -39,8 +39,6 @@ https://user-images.githubusercontent.com/20390351/166935573-94cacf43-0354-49ba-
 
 #### Trey Lance Throwing Mechanics during OTAs
 
-https://user-images.githubusercontent.com/20390351/171503744-a469aa37-b734-43f2-a490-f310454746d0.mov
-
 
 <img width="516" alt="Screen Shot 2022-05-27 at 10 21 00 AM" src="https://user-images.githubusercontent.com/20390351/171502673-083547ae-65f2-4951-a0e7-47332c50fdce.png">
 
