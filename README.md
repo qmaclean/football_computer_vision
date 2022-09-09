@@ -43,6 +43,14 @@ https://user-images.githubusercontent.com/20390351/166935573-94cacf43-0354-49ba-
 <img width="516" alt="Screen Shot 2022-05-27 at 10 21 00 AM" src="https://user-images.githubusercontent.com/20390351/171502673-083547ae-65f2-4951-a0e7-47332c50fdce.png">
 
 
+#### Marcus Mariota
+https://user-images.githubusercontent.com/20390351/189407278-54845df9-9fbd-4439-b827-365bcf5bcf78.mov
+
+#### Justin Herbet (new CV Dashboard)
+
+https://user-images.githubusercontent.com/20390351/189407676-3524590b-6568-430e-8a38-2eaa51c0a738.mov
+
+
 
 
 Reference for QB Mechanics:
@@ -57,6 +65,22 @@ Reference: https://github.com/ridouaneg/DeepFootballAnalysis
 https://user-images.githubusercontent.com/20390351/163631208-fe4bd44c-7fca-43d6-829a-034be1fc17e6.mov
 
 https://user-images.githubusercontent.com/20390351/163890917-1e1955f7-6fd9-4683-a773-eadf08da11c3.mov
+
+
+### WR Athleticism Detection
+
+#### George Pickens
+https://user-images.githubusercontent.com/20390351/189407740-b277b88b-b962-4c10-a3c1-602ab9248cbc.mov
+
+#### Kadarius Toney
+https://user-images.githubusercontent.com/20390351/189407804-53333108-74c9-4b50-8f15-f998511d83d1.mov
+
+#### CMC
+
+https://user-images.githubusercontent.com/20390351/189407860-678c673f-195a-405d-b089-0798a24a6b25.mov
+
+
+
 
 
 
