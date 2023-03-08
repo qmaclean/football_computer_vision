@@ -13,6 +13,15 @@ Tom Brady Youtube video: https://www.youtube.com/watch?v=sJsq5uP7IjI
 
 ### Output Sample
 
+#### Anthony Richardson - 2023 Combine
+
+https://user-images.githubusercontent.com/20390351/223774041-0c3ef56d-e06a-47e5-a1e3-dc9fd46cc506.mov
+
+#### Will Levis - 2023 Combine
+
+https://user-images.githubusercontent.com/20390351/223774130-ad27d734-2759-48f2-9bf8-79152b9b0f24.mov
+
+#### Tom Brady (original video)
 https://user-images.githubusercontent.com/20390351/156479235-cda703f2-ccf9-4859-bd95-fee4da8d236c.mov
 
 ### QB Pose Estimation w/ Angle & Throw Classification (Malik Willis)
@@ -49,15 +58,6 @@ https://user-images.githubusercontent.com/20390351/189407278-54845df9-9fbd-4439-
 #### Justin Herbet (new CV Dashboard)
 
 https://user-images.githubusercontent.com/20390351/189407676-3524590b-6568-430e-8a38-2eaa51c0a738.mov
-
-#### Anthony Richardson - 2023 Combine
-
-https://user-images.githubusercontent.com/20390351/223774041-0c3ef56d-e06a-47e5-a1e3-dc9fd46cc506.mov
-
-#### Will Levis - 2023 Combine
-
-https://user-images.githubusercontent.com/20390351/223774130-ad27d734-2759-48f2-9bf8-79152b9b0f24.mov
-
 
 Reference for QB Mechanics:
 https://volswire.usatoday.com/lists/how-josh-heupel-and-his-staff-teach-quarterback-footwork-fundamentals-and-stance/ \
